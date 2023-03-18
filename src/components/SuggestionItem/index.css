@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.suggestion-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.suggestion {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+.arrow-image {
+  height: 20px;
+  width: 20px;
+  margin-top: 10px;
+}
